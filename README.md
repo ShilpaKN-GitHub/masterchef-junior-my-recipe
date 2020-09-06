@@ -1,2 +1,2 @@
-# masterchef-junior-my-recipe
-Shilpa
+# Masterchef Junior My Recipes
+Recipes book of MasterChef Junior.
